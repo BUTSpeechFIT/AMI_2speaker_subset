@@ -1,0 +1,6 @@
+[submodule "AMI-diarization-setup"]
+	path = AMI-diarization-setup
+	url = https://github.com/BUTSpeechFIT/AMI-diarization-setup
+[submodule "diarization_utils"]
+	path = diarization_utils
+	url = https://github.com/BUTSpeechFIT/diarization_utils
